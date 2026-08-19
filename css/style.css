@@ -104,8 +104,8 @@ h1, h2, h3 { font-family: var(--display); font-weight: 500; margin: 0; }
 /* HERO */
 .hero { padding-top: 120px; padding-bottom: 96px; }
 .avatar {
-  width: 84px;
-  height: 84px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   background: var(--pine-soft);
   border: 1px solid var(--line);
